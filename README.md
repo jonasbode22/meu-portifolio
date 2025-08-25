@@ -1,16 +1,29 @@
-# Meus Projetos
+# Meu Portfólio
 
-Portfólio com alguns dos projetos que desenvolvi.
+Bem-vindo ao meu portfólio de desenvolvedor!
 
-## Calculadora Simples
+## Projeto 1 – Lista de Tarefas
 
-Feita com HTML, CSS e JS puro. Aprendi sobre eventos e manipulação de DOM.
+Aplicativo simples para adicionar, editar e excluir tarefas.
 
-## App de Tarefas
+**Tecnologias**: HTML, CSS, JavaScript  
+**Desafios enfrentados**: salvar tarefas no navegador (localStorage)
 
-Aplicação com armazenamento local e CRUD. Desafio: organizar o código em funções reutilizáveis.
+![Imagem do projeto](https://via.placeholder.com/600x300)
 
-## Em desenvolvimento
+🔗 [Ver Projeto](https://seunome.github.io/lista-tarefas)
 
-Estou criando um app de receitas com React.
+---
 
+## Projeto 2 – Calculadora
+
+Calculadora funcional com validação de erros e operações básicas.
+
+**Tecnologias**: HTML, CSS, JS puro  
+**Desafios enfrentados**: tratar divisão por zero, lógica de operação contínua
+
+---
+
+## Em breve
+
+Novos projetos sendo desenvolvidos com React, Node.js e Python!
