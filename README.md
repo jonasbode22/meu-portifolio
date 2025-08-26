@@ -1,17 +1,7 @@
-# Meu Portfólio de Projetos
+# Projeto: Lista de Tarefas
 
-## Projeto: Lista de Tarefas
+Aplicativo simples para adicionar e remover tarefas.
 
-Aplicativo de tarefas com HTML, CSS e JS.
+![Imagem do Projeto](https://placehold.co/600x400?text=Lista+de+Tarefas)
 
-![Imagem do Projeto]([https://via.placeholder.com/600x300?text=Lista+de+Tarefas](https://placehold.co/600x400))
-
-🔗 [Acesse o projeto aqui](https://seunome.github.io/tarefas)
-
-## Projeto: Calculadora
-
-Calculadora funcional com interface simples.
-
-![Imagem da Calculadora](https://via.placeholder.com/600x300?text=Calculadora)
-
-🔗 [Ver online](https://seunome.github.io/calculadora)
+🔗 [Acesse o projeto online](https://seunome.github.io/lista-tarefas)
