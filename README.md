@@ -63,21 +63,6 @@ Sou **Jonas Bodê**, professor e desenvolvedor apaixonado por transformar ideias
 
 ---
 
-## 📦 Estrutura dos Projetos
-meu-portfólio/
-├── todo-app/
-│ ├── index.html
-│ ├── style.css
-│ └── script.js
-├── calculadora/
-│ ├── index.html
-│ ├── style.css
-│ └── script.js
-└── README.md
-
-
----
-
 ## 🛠️ Em Desenvolvimento
 
 - [ ] App de receitas com React  
