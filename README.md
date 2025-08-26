@@ -1,54 +1,67 @@
-# ✅ To-Do App – Lista de Tarefas
+# 👨‍💻 Portfólio de Desenvolvedor – Jonas Bodê
 
-Um aplicativo simples, funcional e responsivo para gerenciamento de tarefas pessoais, desenvolvido com foco em boas práticas de front-end e organização de código.
+Bem-vindo ao meu portfólio! Aqui compartilho alguns projetos que desenvolvi utilizando HTML, CSS e JavaScript, com foco em aplicações web funcionais, boas práticas de código e acessibilidade.
 
----
-
-## 🖼️ Imagem do Projeto
-
-![To-Do App](https://placehold.co/800x400?text=To-Do+App+em+execu%C3%A7%C3%A3o)
+![Banner do Portfólio](https://placehold.co/900x400?text=Jonas+Bod%C3%AA+%7C+Portf%C3%B3lio+Web)
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## 🚀 Projetos
 
-- HTML5 (semântico)
-- CSS3 (com responsividade)
-- JavaScript (DOM + LocalStorage)
+### 📌 [To-Do App – Lista de Tarefas](https://jonasbode22.github.io/todo-app)
 
----
+![To-Do App](https://placehold.co/800x400?text=To-Do+App+com+localStorage)
 
-## 🚀 Funcionalidades
+Aplicativo de gerenciamento de tarefas, desenvolvido com HTML, CSS e JavaScript puro.
 
-- [x] Adicionar nova tarefa  
-- [x] Marcar tarefa como concluída  
-- [x] Remover tarefa  
-- [x] Armazenamento no navegador com `localStorage`  
-- [x] Layout responsivo para celular e desktop  
+**Principais funcionalidades:**
+- Adicionar, concluir e remover tarefas
+- Armazenamento persistente com `localStorage`
+- Design responsivo mobile-first
 
----
-
-## 🧠 Desafios enfrentados
-
-- Implementar persistência de dados local (mesmo ao fechar a aba)
-- Evitar tarefas duplicadas
-- Tornar a interface responsiva sem usar frameworks externos
+**Destaques técnicos:**
+- Manipulação do DOM
+- Organização modular do código
+- Uso de `localStorage` como banco local
 
 ---
 
-## 🔗 Link para o Projeto Online
+### 📌 [Calculadora Web](https://jonasbode22.github.io/calculadora)
 
-👉 [Acesse o App ao vivo](https://jonasbode22.github.io/todo-app)
+![Calculadora JS](https://placehold.co/800x400?text=Calculadora+JavaScript)
+
+Calculadora básica feita com HTML, CSS e JavaScript, focada em acessibilidade e UX.
+
+**Funcionalidades:**
+- Operações matemáticas básicas
+- Teclado numérico funcional
+- Interface limpa e adaptável
+
+**Aprendizados:**
+- Validação de entrada
+- Lógica sequencial de operações
+- Tratamento de divisão por zero
 
 ---
 
-## 📁 Como Executar Localmente
+## 🧰 Tecnologias Usadas
 
-```bash
-# Clone o repositório
-git clone https://github.com/seunome/todo-app
+- HTML5 semântico
+- CSS3 com responsividade
+- JavaScript Vanilla (ES6+)
+- Git & GitHub
+- GitHub Pages (deploy)
 
-# Acesse a pasta
-cd todo-app
+---
 
-# Abra o arquivo index.html no navegador
+## 💬 Sobre Mim
+
+Sou **Jonas Bodê**, professor e desenvolvedor apaixonado por transformar ideias em projetos funcionais. Acredito na importância do aprendizado contínuo e do ensino acessível. Gosto de construir aplicações que resolvem problemas reais e são fáceis de entender.
+
+📌 GitHub: [@jonasbode22](https://github.com/jonasbode22)  
+📌 LinkedIn: [linkedin.com/in/jonasbode22](https://linkedin.com/in/jonasbode22)
+
+---
+
+## 📦 Estrutura dos Projetos
+
