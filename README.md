@@ -1,29 +1,17 @@
-# Meu Portfólio
+# Meu Portfólio de Projetos
 
-Bem-vindo ao meu portfólio de desenvolvedor!
+## Projeto: Lista de Tarefas
 
-## Projeto 1 – Lista de Tarefas
+Aplicativo de tarefas com HTML, CSS e JS.
 
-Aplicativo simples para adicionar, editar e excluir tarefas.
+![Imagem do Projeto](https://via.placeholder.com/600x300?text=Lista+de+Tarefas)
 
-**Tecnologias**: HTML, CSS, JavaScript  
-**Desafios enfrentados**: salvar tarefas no navegador (localStorage)
+🔗 [Acesse o projeto aqui](https://seunome.github.io/tarefas)
 
-![Imagem do projeto](https://via.placeholder.com/600x300)
+## Projeto: Calculadora
 
-🔗 [Ver Projeto](https://seunome.github.io/lista-tarefas)
+Calculadora funcional com interface simples.
 
----
+![Imagem da Calculadora](https://via.placeholder.com/600x300?text=Calculadora)
 
-## Projeto 2 – Calculadora
-
-Calculadora funcional com validação de erros e operações básicas.
-
-**Tecnologias**: HTML, CSS, JS puro  
-**Desafios enfrentados**: tratar divisão por zero, lógica de operação contínua
-
----
-
-## Em breve
-
-Novos projetos sendo desenvolvidos com React, Node.js e Python!
+🔗 [Ver online](https://seunome.github.io/calculadora)
